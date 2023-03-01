@@ -1,0 +1,2 @@
+
+float display(static float);
